@@ -1,0 +1,9 @@
+1- buat virtual environment dengan python 3
+	python3 -m venv env
+2- aktifkan virtual environment
+	env\Scripts\activate
+3- install lib dengan pip
+	pip install -r requirements.txt
+4- run => python3 main.py
+
+HARUS DIHAPAL FADILA. AJARIN NISA
